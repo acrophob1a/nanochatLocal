@@ -19,7 +19,12 @@ wandb/
 *.log
 *.lock
 
+# Resume and interview documents (private, not for public repo)
 interview-docs-v2/
+*简历*.md
+*项目经验*.md
+*interview*.md
+needs.md
 
 .ipynb_checkpoints/
 *.egg-info/
